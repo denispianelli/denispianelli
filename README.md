@@ -7,7 +7,7 @@
 ### 📫 Contact Me
 
 LinkedIn: [Denis Pianelli](https://www.linkedin.com/in/denis-pianelli/)  
-Website: [denispianelli.dev](https://www.denispianelli.dev/fr)  
+Website: [www.denispianelli.dev](https://www.denispianelli.dev)  
 Email: denis.pianelli@gmail.com
 <!--
 **denispianelli/denispianelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
