@@ -54,9 +54,9 @@ I strive to build scalable and efficient systems that deliver real value.
 
 <div align="center">
 
-![Denis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=denispianelli&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=denispianelli&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denispianelli&layout=compact&theme=dark&hide_border=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=denispianelli&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
