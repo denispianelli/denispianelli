@@ -7,7 +7,7 @@
 *Ex Tesla Sales Advisor turned Web Developer —*  
 *combining user empathy with technical expertise*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-denispianelli.dev-black?style=flat-square&logo=vercel)](https://www.denispianelli.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-my_portfolio-black?style=flat-square&logo=vercel)](https://next-portfolio-lhekp2oj9-denis-pianellis-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis_Pianelli-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/denis-pianelli/)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail)](mailto:denis.pianelli@gmail.com)
 
